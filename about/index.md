@@ -4,7 +4,7 @@ title:
 excerpt: "About Shijie Feng"
 modified: 2016-01-24
 image:
-  feature: vw.jpg
+  feature: VW.jpg
   credit: 
   creditlink: 
 ---
