@@ -20,10 +20,8 @@ So I became restless.
 
 After I passed the notoriously difficult bar exam and got my license to practice law in California, I made a decision that my risk-averse, meticulously cautious lawyer self would arguably advise against: to become a programmer.
 
-With a racing heart full of anxious curiousity, I take the leap.[^1]
+With a head full of questions and a heart full of faith, I take the leap.
 
 Currently, I am a software engineering fellow at [Hackbright](https://hackbrightacademy.com), an immersive all-woman software engineering school. As I figure out how to hack my way into the tech world, I know I'm not alone. 
 
 Onwards and upwards, the places I'll go!
-
-[^1]: *I have every bit of intention to keep my bar licenses. They don't weigh me down, really.*
