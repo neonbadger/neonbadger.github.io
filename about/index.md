@@ -1,26 +1,29 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title:
+excerpt: "About Shijie Feng"
+modified: 2016-01-24
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: vw.jpg
+  credit: 
+  creditlink: 
 ---
+# Hi, I'm Shijie Feng.
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+You can find me on [Twitter](https://twitter.com/Neon_Badger), on [Github](https://github.com/neonbadger), and on [LinkedIn](https://linkedin.com/in/shijiefeng).
 
-## So Simple Theme is all about:
+I grew up in Shanghai, China and came to the U.S. after I finished high school. Two degrees and a wedding later, I fully embrace America as my new home, but I still miss hand-pulled beef noodles sprinkled with lots and lots of cilantros from the raucous streets of China.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+In addition to my passion for noodles, I also love to code. I was learning programming on the side when my day job involved prancing around in fitted suits and carrying bulging case files. I thoroughly enjoyed being a lawyer until I moved to San Francisco, the city of the future, where I saw the opportunity to liberate my mind from the confines of what had previously been said, done, and decided upon, and create something new -- silly or not, simple or not -- but entirely of my own.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+So I became restless. 
 
-[^1]: Example: *domain.com/category-name/post-title*
+After I passed the notoriously difficult bar exam and got my license to practice law in California, I made a decision that my risk-averse, meticulously cautious lawyer self would arguably advise against: to become a programmer.
+
+With a racing heart full of anxious curiousity, I take the leap.[^1]
+
+Currently, I am a software engineering fellow at [Hackbright](https://hackbrightacademy.com), an immersive all-woman software engineering school. As I figure out how to hack my way into the tech world, I know I'm not alone. 
+
+Onwards and upwards, the places I'll go!
+
+[^1]: *I have every bit of intention to keep my bar licenses. They don't weigh me down, really.*
